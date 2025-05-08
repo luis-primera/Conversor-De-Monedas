@@ -13,7 +13,7 @@ Esta aplicación permite convertir entre diferentes monedas usando tasas de camb
 
 ### 🧭 Menú principal
 Muestra el menú con las opciones para seleccionar la conversión de moneda.
-![InterfazPricipal](src/imagenes/menu.png)
+![InterfazPrincipal](src/imagenes/menu.png)
 
 ### 💰 Resultado de la conversión
 Ejemplo de cómo se muestra la cantidad convertida, la tasa de cambio y los detalles de la operación.
