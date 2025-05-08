@@ -29,7 +29,6 @@ public class ObtenerDatosApi {
             TasasApi listaTasas = gson.fromJson(response.body(), TasasApi.class);
             fechaActualizacion = listaTasas.time_last_update_utc();
             Map<String,Double> tasas = listaTasas.conversion_rates();
-            System.out.println("Tasa de última actualización: ");
             return tasas.get(destino);
         } catch (IOException | InterruptedException | NullPointerException e){
             throw new RuntimeException("Error al obtener los datos de la API. " + e);
