@@ -9,7 +9,23 @@ Esta aplicación permite convertir entre diferentes monedas usando tasas de camb
 - ✅ Diseño sencillo e intuitivo
 - ✅ Validación de entrada del usuario
 
-## Captura de pantalla
+## Capturas de pantalla
 
+### 🧭 Menú principal
+Muestra el menú con las opciones para seleccionar la conversión de moneda.
 ![InterfazPricipal](menu.png)
+
+### 💰 Resultado de la conversión
+Ejemplo de cómo se muestra la cantidad convertida, la tasa de cambio y los detalles de la operación.
 ![Resultado](conversion.png)
+
+### 🔁 Repetición del menú tras una conversión
+
+Después de realizar una operación, el programa vuelve a mostrar el menú de opciones para permitir nuevas conversiones.
+![RepeticiónDelMenu](menu-repetido.png)
+
+### 🛑 Finalización del programa
+
+Cuando el usuario elige la opción de salir, el programa finaliza su ejecución de forma ordenada.
+
+![Finalización del programa](salida-programa.png)
