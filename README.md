@@ -4,7 +4,7 @@ Esta aplicación permite convertir entre diferentes monedas usando tasas de camb
 
 ## 🚀 Funcionalidades
 
-- ✅ Conversión entre distintas monedas (USD, CLP, VES, BRL. etc)
+- ✅ Conversión entre distintas monedas (USD, CLP, VES, BRL.)
 - ✅ Toma los datos en tiempo real desde una API de tasas de cambio
 - ✅ Diseño sencillo e intuitivo
 - ✅ Validación de entrada del usuario
