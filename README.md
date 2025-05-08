@@ -8,3 +8,8 @@ Esta aplicación permite convertir entre diferentes monedas usando tasas de camb
 - ✅ Toma los datos en tiempo real desde una API de tasas de cambio
 - ✅ Diseño sencillo e intuitivo
 - ✅ Validación de entrada del usuario
+
+## Captura de pantalla
+
+![InterfazPricipal](menu.png)
+![Resultado](conversion.png)
