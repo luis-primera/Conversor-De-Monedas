@@ -13,19 +13,19 @@ Esta aplicación permite convertir entre diferentes monedas usando tasas de camb
 
 ### 🧭 Menú principal
 Muestra el menú con las opciones para seleccionar la conversión de moneda.
-![InterfazPricipal](menu.png)
+![InterfazPricipal](src/imagenes/menu.png)
 
 ### 💰 Resultado de la conversión
 Ejemplo de cómo se muestra la cantidad convertida, la tasa de cambio y los detalles de la operación.
-![Resultado](conversion.png)
+![Resultado](src/imagenes/conversion.png)
 
 ### 🔁 Repetición del menú tras una conversión
 
 Después de realizar una operación, el programa vuelve a mostrar el menú de opciones para permitir nuevas conversiones.
-![RepeticiónDelMenu](menu-repetido.png)
+![RepeticiónDelMenu](src/imagenes/menu-repetido.png)
 
 ### 🛑 Finalización del programa
 
 Cuando el usuario elige la opción de salir, el programa finaliza su ejecución de forma ordenada.
 
-![Finalización del programa](salida-programa.png)
+![Finalización del programa](src/imagenes/salida-programa.png)

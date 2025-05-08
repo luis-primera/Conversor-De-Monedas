@@ -7,6 +7,10 @@
     <list default="true" id="1cf27d11-1b77-4daf-93f0-57842e0806f1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversion.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imagenes/conversion.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu-repetido.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imagenes/menu-repetido.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imagenes/menu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salida-programa.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imagenes/salida-programa.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +59,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Luise\OneDrive\Escritorio\English Luis Primera\Challenge Conversor de Monedas\ConversorDeMonedas\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Luise\OneDrive\Escritorio\English Luis Primera\Challenge Conversor de Monedas\ConversorDeMonedas\src\images" />
+      <recent name="C:\Users\Luise\OneDrive\Escritorio\English Luis Primera\Challenge Conversor de Monedas\ConversorDeMonedas\src" />
     </key>
   </component>
   <component name="RunManager" selected="Application.ConversorMonedasApp">
