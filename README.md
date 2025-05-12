@@ -29,3 +29,9 @@ Después de realizar una operación, el programa vuelve a mostrar el menú de op
 Cuando el usuario elige la opción de salir, el programa finaliza su ejecución de forma ordenada.
 
 ![Finalización del programa](src/imagenes/salida-programa.png)
+
+## 🎥 Video demostrativo
+
+Haz clic en la imagen para ver el video completo:
+
+[![Ver demo](src/imagenes/demo-thumbnail.png)](https://youtu.be/mGvyeP51_4A)
